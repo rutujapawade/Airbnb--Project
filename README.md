@@ -3,7 +3,7 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/Rutujapawaden">
+  <a style="" href="https://github.com/Rutujapawade">
   <img src="https://profile-counter.glitch.me/Airbnb--Project/count.svg" />
   </a>
 </p>
